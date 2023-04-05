@@ -19,5 +19,6 @@ My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements
 
 ## My Research
 
-![Elephant](Figure1.png){width=300}
+
+![CRE Screen](Fig1.png){width=300}
 
