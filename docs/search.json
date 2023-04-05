@@ -14,10 +14,10 @@
     "text": "I am an aspiring Physcian-Scientist, training at the University of Cicninnati. My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements"
   },
   {
-    "objectID": "hello.html#meet-the-penguins",
-    "href": "hello.html#meet-the-penguins",
+    "objectID": "hello.html#my-research",
+    "href": "hello.html#my-research",
     "title": "About Me",
-    "section": "Meet the penguins",
-    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
+    "section": "My Research",
+    "text": "My Research\n\n\n\nElephant"
   }
 ]
