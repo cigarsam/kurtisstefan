@@ -14,11 +14,11 @@ library(palmerpenguins)
 
 ## Who Am I
 
-I am an aspiring Physcian-Scientist, training at the University of Cicninnati. 
+I am an aspiring Physician-Scientist, training at the University of Cicninnati. 
 My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements
 
 ## My Research
 
-
+Cis-Regulatory Atlas of Primary Human CD4+ T Cells
 ![CRE Screen](Fig1.png){width=300}
-
+https://www.biorxiv.org/content/10.1101/2022.12.09.519788v1
