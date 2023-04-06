@@ -8,7 +8,7 @@ website:
   google-analytics: "UA-263165454-1"
   navbar:
     left:
-      - href: hello.qmd
+      - href: index.qmd
         text: Home
       - href: smokestack.qmd
         text: Smokestack
