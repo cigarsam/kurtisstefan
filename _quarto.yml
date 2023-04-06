@@ -5,6 +5,7 @@ project:
 
 website:
   title: "today"
+  google-analytics: "UA-263165454-1"
   navbar:
     left:
       - href: hello.qmd
