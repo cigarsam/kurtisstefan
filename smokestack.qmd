@@ -14,3 +14,4 @@ library(palmerpenguins)
 ```
 
 ## Oddities
+![Scruffy](IMG_6422.jpg){fig-align="center" width=80%}
