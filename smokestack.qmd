@@ -1,0 +1,16 @@
+---
+title: "Oddities"
+format: html
+editor: visual
+sidebar: true
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+## Oddities

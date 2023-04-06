@@ -9,6 +9,8 @@ website:
     left:
       - href: hello.qmd
         text: Home
+      - href: smokestack.qmd
+        text: Smokestack
 
 format:
   html:
