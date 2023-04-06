@@ -2,6 +2,7 @@
 title: "About Me"
 format: html
 editor: visual
+sidebar: true
 ---
 
 ```{r}
@@ -22,5 +23,4 @@ My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements
 Cis-Regulatory Atlas of Primary Human CD4+ T Cells
 ![CRE Screen](Fig1.png){width=300}
 
-[Read the Preprint!]
-(https://www.biorxiv.org/content/10.1101/2022.12.09.519788v1)
+[Read the Preprint!](https://www.biorxiv.org/content/10.1101/2022.12.09.519788v1)
