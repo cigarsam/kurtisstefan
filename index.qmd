@@ -9,18 +9,14 @@ sidebar: true
 #| label: load-packages
 #| include: false
 
-library(tidyverse)
-library(palmerpenguins)
 ```
 
 ## Who Am I
 
-I am an aspiring Physician-Scientist, training at the University of Cincinnati. 
-My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements
+I am an aspiring Physician-Scientist, training at the University of Cincinnati. My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements
 
 ## My Research
 
-Cis-Regulatory Atlas of Primary Human CD4+ T Cells
-![CRE Screen](Fig1.png){width=300}
+Cis-Regulatory Atlas of Primary Human CD4+ T Cells ![CRE Screen](Fig.png){width="300"}
 
-[Read the Preprint!](https://www.biorxiv.org/content/10.1101/2022.12.09.519788v1)
+[Read the full manuscript at BMC Genomics!](https://rdcu.be/db2Zw)

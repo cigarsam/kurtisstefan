@@ -9,8 +9,7 @@ sidebar: true
 #| label: load-packages
 #| include: false
 
-library(tidyverse)
-library(palmerpenguins)
+
 ```
 
 ## Oddities
