@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an aspiring Physician-Scientist, training at the University of Cincinnati. My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements"
+  },
+  {
+    "objectID": "posts/index.html#who-am-i",
+    "href": "posts/index.html#who-am-i",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an aspiring Physician-Scientist, training at the University of Cincinnati. My Interests are Medicine, Heme-Onc, Genomics, and Cis-Regulatory Elements"
+  },
+  {
+    "objectID": "posts/index.html#my-research",
+    "href": "posts/index.html#my-research",
+    "title": "About Me",
+    "section": "My Research",
+    "text": "My Research\nCis-Regulatory Atlas of Primary Human CD4+ T Cells \nRead the full manuscript at BMC Genomics!"
+  },
+  {
     "objectID": "smokestack.html",
     "href": "smokestack.html",
     "title": "Oddities",
@@ -33,5 +54,19 @@
     "title": "About Me",
     "section": "My Research",
     "text": "My Research\nCis-Regulatory Atlas of Primary Human CD4+ T Cells \nRead the full manuscript at BMC Genomics!"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Some panderings of a student."
+  },
+  {
+    "objectID": "Blog.html#what-you-will-find-here",
+    "href": "Blog.html#what-you-will-find-here",
+    "title": "Blog",
+    "section": "",
+    "text": "Some panderings of a student."
   }
 ]

@@ -12,6 +12,8 @@ website:
         text: Home
       - href: smokestack.qmd
         text: Smokestack
+      - href: Blog.qmd
+        text: Blog
 
 format:
   html:

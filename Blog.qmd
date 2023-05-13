@@ -1,0 +1,22 @@
+---
+title: "Blog"
+listing:
+    contents: posts
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+title-block-banner: false
+
+---
+  
+```{r}
+#| label: load-packages
+#| include: false
+
+```
+
+## What you will find here:
+
+Some panderings of a student.
