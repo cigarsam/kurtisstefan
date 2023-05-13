@@ -19,4 +19,4 @@ I am an aspiring Physician-Scientist, training at the University of Cincinnati. 
 
 Cis-Regulatory Atlas of Primary Human CD4+ T Cells ![CRE Screen](Fig.png){width="300"}
 
-[Read the full manuscript at BMC Genomics!](https://rdcu.be/db2Zw)
+[Read the full manuscript at BMC Genomics!](https://rdcu.be/db2Zw){fig-align="right" width=80%}
