@@ -13,4 +13,5 @@ sidebar: true
 ```
 
 ## Oddities
-![Scruffy](IMG_6422.jpg){fig-align="center" width=80%}
+
+![Scruffy](IMG_6422.jpg){fig-align="center" width="80%"}
