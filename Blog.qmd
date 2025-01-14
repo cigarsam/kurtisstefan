@@ -19,4 +19,4 @@ title-block-banner: false
 
 ## What you will find here:
 
-Some panderings of a student.
+Some musings of a life long student.
