@@ -1,0 +1,22 @@
+---
+title: "IM Signaling Beharior"
+description: "..."
+author:
+  - name: Kurtis Stefan
+
+
+date: 01-15-24
+categories: [Quarto, R, IM] # self-defined categories
+citation: 
+  url: https://cigarsam.github.io/ApplicantApp/
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+
+## Introduction
+Welcome to a helpful tool for selecting IM residencies for your applications! 
+
+
+## Link
+https://cigarsam.github.io/ApplicantApp/
+---
