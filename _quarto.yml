@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Puppers.qmd
-        text: Puppers
       - href: Blog.qmd
         text: Blog
       - href: IMResidency.qmd
