@@ -14,6 +14,8 @@ website:
         text: Puppers
       - href: Blog.qmd
         text: Blog
+      - href: IMResidency.qmd
+        text: IM Residency Dashboard
 include-after: |
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-TMVF81119V"></script>

@@ -1,0 +1,17 @@
+---
+title: "Oddities"
+format: html
+editor: visual
+sidebar: true
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+
+```
+
+## Oddities
+
+![Scruffy](IMG_6422.jpg){fig-align="center" width="80%"}
