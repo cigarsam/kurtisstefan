@@ -1,28 +1,22 @@
 ---
-title: "IM Signaling Beharior"
-description: "..."
+title: "IM Signaling Behavior"
+description: "A tool for selecting Internal Medicine residencies for your applications."
 author:
   - name: Kurtis Stefan
-
-
-date: 01-15-24
+date: 2024-01-15
 categories: [Quarto, R, IM] # self-defined categories
 citation: 
   url: https://cigarsam.github.io/ApplicantApp/
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-
 ## Introduction
-Welcome to a helpful tool for selecting IM residencies for your applications! 
-Interview selection data used from ResdidencyMatch.net (As of 01-16-25)
+Welcome to a helpful tool for selecting Internal Medicine residencies for your applications!  
+Interview selection data is used from ResidencyMatch.net (as of 2025-01-16).
 
-```html
+## Interactive Dashboard
+You can explore the interactive dashboard directly below:
+
+```{=html}
 <iframe src="https://cigarsam.github.io/ApplicantApp/" width="100%" height="600px" style="border:none;"></iframe>
 
-## Link
-[See the interactive dashboard here!](https://cigarsam.github.io/ApplicantApp/)
----
-
-```{}
-```
