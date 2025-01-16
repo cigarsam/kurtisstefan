@@ -18,5 +18,5 @@ Welcome to a helpful tool for selecting IM residencies for your applications!
 
 
 ## Link
-(https://cigarsam.github.io/ApplicantApp/)
+[Link Text](https://cigarsam.github.io/ApplicantApp/)
 ---
