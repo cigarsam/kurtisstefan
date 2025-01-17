@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "Kurtis Stefan"
   google-analytics: "UA-263165454-1"
@@ -27,7 +26,14 @@ include-after: |
 format:
   html:
     theme: cosmo
-      typography:
-        font: system
+    typography:
+      font: system
     css: styles.css
     toc: true
+output-html:
+  minify: true
+html:
+  head: |
+    <link rel="preload" href="styles.css" as="style">
+    <link rel="prefetch" href="next-page.html">
+    <script src="custom.js" defer></script>
