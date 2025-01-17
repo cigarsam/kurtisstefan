@@ -27,5 +27,7 @@ include-after: |
 format:
   html:
     theme: cosmo
+      typography:
+        font: system
     css: styles.css
     toc: true
