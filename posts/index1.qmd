@@ -19,7 +19,7 @@ Interview selection data used from ResdidencyMatch.net (As of 01-16-25)
 
 Take for example the combination of Signals (Gold / Silver) and Geographic Preferences. Alignment of these two preferences (eg. Silver + Geo) yields most of the interviews. However, a Gold signal may be enough to to express genuine interest irrespective of a geographic preference alignemnt, shown below. Contrast with a geographic preference alone with no signal, which appears more likely to yield a rejection. 
 
-![Invites By Signal](images/InvitesBySignal.png){fig-align="center" width="100%",loading="lazy"}
+![Invites By Signal](images/InvitesBySignal.png){fig-align="center", width="100%",loading="lazy"}
 
 
 ## Link
