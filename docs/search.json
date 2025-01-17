@@ -39,7 +39,7 @@
     "href": "index.html#my-research",
     "title": "About Me",
     "section": "My Research",
-    "text": "My Research\nCis-Regulatory Atlas of Primary Human CD4+ T Cells {loading=lazy}\nRead the full manuscript at BMC Genomics!"
+    "text": "My Research\nCis-Regulatory Atlas of Primary Human CD4+ T Cells {fig-align=“right” width=“100%”,loading=“lazy”}\nRead the full manuscript at BMC Genomics!"
   },
   {
     "objectID": "IMResidency.html",
@@ -67,13 +67,13 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Some musings of a life long student."
+    "text": "Some musings of a life-long student."
   },
   {
     "objectID": "Blog.html#what-you-will-find-here",
     "href": "Blog.html#what-you-will-find-here",
     "title": "Blog",
     "section": "",
-    "text": "Some musings of a life long student."
+    "text": "Some musings of a life-long student."
   }
 ]
