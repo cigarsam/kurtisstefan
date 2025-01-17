@@ -17,6 +17,11 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 Welcome to a helpful tool for selecting IM residencies for your applications! 
 Interview selection data used from ResdidencyMatch.net (As of 01-16-25)
 
+Take for example the combination of Signals (Gold / Silver) and Geographic Preferences. Alignment of these two preferences (eg. Silver + Geo) yields most of the interviews. However, a Gold signal may be enough to to express genuine interest irrespective of a geographic preference alignemnt, shown below. Contrast with a geographic preference alone with no signal, which appears more likely to yield a rejection. 
+
+![Invites By Signal](InvitesBySignal.png){fig-align="center" width="100%"}{loading=lazy}
+
+
 ```html
 <iframe src="https://cigarsam.github.io/ApplicantApp/" width="100%" height="600px" style="border:none;"></iframe>
 
