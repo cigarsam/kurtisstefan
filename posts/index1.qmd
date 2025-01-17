@@ -22,8 +22,6 @@ Take for example the combination of Signals (Gold / Silver) and Geographic Prefe
 ![Invites By Signal](InvitesBySignal.png){fig-align="center" width="100%"}{loading=lazy}
 
 
-```html
-<iframe src="https://cigarsam.github.io/ApplicantApp/" width="100%" height="600px" style="border:none;"></iframe>
 
 ## Link
 [See the interactive dashboard here!](https://cigarsam.github.io/ApplicantApp/)
