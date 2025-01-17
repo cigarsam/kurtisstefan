@@ -13,7 +13,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 ---
 
 
-## Introduction
+## Suggestions for Signaling and Geographic Preferences for Internal Medicine Residency Applications
 Welcome to a helpful tool for selecting IM residencies for your applications! 
 Interview selection data used from ResdidencyMatch.net (As of 01-16-25)
 
